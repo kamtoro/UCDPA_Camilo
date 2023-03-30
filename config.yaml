@@ -1,0 +1,11 @@
+default:
+  date_format: '%Y-%m-%d'
+  years_to_aggregate: 
+    - 2018
+    - 2019
+    - 2020
+    - 2021
+    - 2022
+  parse_dates: 
+    deed_date
+#       Purchased On
